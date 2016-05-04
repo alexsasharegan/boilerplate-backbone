@@ -3,7 +3,7 @@
 ```
 > git init
 > npm init
-> npm install --save babel-preset-es2015 body-parser bower lodash
+> npm install --save babel-preset-es2015 express body-parser bower lodash
 > npm install --save-dev gulp gulp-babel gulp-sass gulp-sourcemaps gulp-concat
 > bower init
 > bower install --save jquery underscore backbone bootstrap
