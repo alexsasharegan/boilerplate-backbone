@@ -1,6 +1,6 @@
 #Getting Started
 
-```bash
+```shell
 $ git init
 $ npm init
 $ npm install --save babel-preset-es2015 express body-parser bower lodash
